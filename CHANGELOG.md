@@ -4,7 +4,7 @@
 
 ### Changed
 
-- Clone and Releases URLs point at `bunnysi/monitor-theme-lone`.
+- Clone and Releases URLs point at `opentu/monitor-theme-lone`.
 - Renamed the repository from monitor-theme-ume. The installed directory stays `ume`.
 
 ### Fixed
